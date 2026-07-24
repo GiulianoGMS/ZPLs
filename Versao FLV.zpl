@@ -1,0 +1,153 @@
+^XA
+^CI28
+^PW800
+^LL1000
+^LH54,385
+
+^FX ==========================================================
+^FX TITULO
+^FO20,23^A0N,32,34^FB480,1,0,C^FDFRUTA GIULIANO EXEMPLO^FS
+^FO13,55^GB490,3,3^FS
+
+^FX ==========================================================
+^FX PESO
+^FO345,70^A0N,16,16^FDPeso Liq.:^FS
+^FO340,92^A0N,32,32^FD200 g^FS
+
+^FX ==========================================================
+^FX DADOS
+^FO20,65^A0N,16,16^FDEmb.: 29/04/2026^FS
+^FO20,85^A0N,16,16^FDPeso Emb.: 6 g^FS
+
+^FX ==========================================================
+^FX RASTREAMENTO
+^FO20,105^A0N,16,16^FDLote: XXXXXXXXXXX^FS
+^FO200,85^A0N,16,16^FDPRODUTO^FS
+^FO200,105^A0N,16,16^FDDO BRASIL^FS
+
+
+==== QR CODE
+^FO425,34^BQN,2,2
+^FDQA,https://shre.ink/jDCi^FS
+
+==== PLU VERTICAL
+^FO488,75^A0R,14,18,C^FD5500^FS
+
+^FX ==========================================================
+^FX Quadrado Tabela
+^FO13,125^GB490,330,2^FS
+^FO22,155^GB470,1,1^FS
+
+^FX ==========================================================
+^FX INFORMACAO NUTRICIONAL
+
+^FO25,135^A0N,18,20^FB480,1,0,C^FDINFORMACAO NUTRICIONAL^FS
+
+^FO20,166^A0N,16,18^FDPorcoes por embalagem: Cerca de 2^FS
+^FO20,183^A0N,16,18^FDPorcao: 75 g (1/2 xicara de cha)^FS
+
+^FO20,270^GB480,1,1^FS
+
+^FX Colunas
+^FO285,210^GB1,221,1^FS
+^FO355,210^GB1,221,1^FS
+^FO425,210^GB1,221,1^FS
+
+^FX Cabecalho
+^FO20,215^A0N,14,14^FDItem^FS
+^FO300,215^A0N,14,14^FD100g^FS
+^FO375,215^A0N,14,14^FD75g^FS
+^FO440,215^A0N,14,14^FD%VD*^FS
+
+=== riscos com preguica
+^FO20,290^GB476,1,1^FS
+^FO20,207^GB476,2,1^FS
+^FO20,230^GB476,1,1^FS
+^FO20,250^GB476,1,1^FS
+
+^FX Linha 1
+^FO20,235^A0N,14,16^FDValor energetico (kcal)^FS
+^FO305,235^A0N,14,16^FD40^FS
+^FO375,235^A0N,14,16^FD30^FS
+^FO450,235^A0N,14,16^FD1^FS
+
+^FX Linha 2
+^FO20,256^A0N,14,16^FDCarboidratos (g)^FS
+^FO305,256^A0N,14,16^FD9,5^FS
+^FO375,256^A0N,14,16^FD7^FS
+^FO450,256^A0N,14,16^FD2^FS
+
+^FX Linha 1
+^FO30,275^A0N,14,16^FDAcucares totais (g)^FS
+^FO305,275^A0N,14,16^FD40^FS
+^FO375,275^A0N,14,16^FD30^FS
+^FO450,275^A0N,14,16^FD1^FS
+
+^FX Linha 1
+^FO40,296^A0N,14,16^FDAcucares adicionados (g)^FS
+^FO305,296^A0N,14,16^FD40^FS
+^FO375,296^A0N,14,16^FD30^FS
+^FO450,296^A0N,14,16^FD1^FS
+
+^FO20,310^GB476,1,1^FS
+
+^FX Linha 2
+^FO20,315^A0N,14,16^FDProteinas (g)^FS
+^FO305,315^A0N,14,16^FD9,5^FS
+^FO375,315^A0N,14,16^FD7^FS
+^FO450,315^A0N,14,16^FD2^FS
+
+^FO20,330^GB476,1,1^FS
+
+^FX Linha 3
+^FO20,335^A0N,14,16^FDGorduras totais (g)^FS
+^FO305,335^A0N,14,16^FD2^FS
+^FO375,335^A0N,14,16^FD1,5^FS
+^FO450,335^A0N,14,16^FD3^FS
+
+^FO20,350^GB476,1,1^FS
+
+^FX Linha 4
+^FO30,355^A0N,14,16^FDGorduras saturadas (g)^FS
+^FO305,355^A0N,14,16^FD1,8^FS
+^FO375,355^A0N,14,16^FD1,4^FS
+^FO450,355^A0N,14,16^FD6^FS
+
+^FO20,370^GB476,1,1^FS
+
+^FX Linha 5
+^FO30,376^A0N,14,16^FDGorduras trans (g)^FS
+^FO305,376^A0N,14,16^FD7^FS
+^FO375,376^A0N,14,16^FD5,3^FS
+^FO450,376^A0N,14,16^FD0^FS
+
+^FX Linha 5
+^FO20,396^A0N,14,16^FDFibras alimentares (g)^FS
+^FO305,396^A0N,14,16^FD9^FS
+^FO375,396^A0N,14,16^FD2,3^FS
+^FO450,396^A0N,14,16^FD0^FS
+
+^FX Linha 5
+^FO20,415^A0N,14,16^FDSódio (g)^FS
+^FO305,415^A0N,14,16^FD9^FS
+^FO375,415^A0N,14,16^FD2,3^FS
+^FO450,415^A0N,14,16^FD0^FS
+
+^FO20,390^GB476,1,1^FS
+^FO20,410^GB476,1,1^FS
+^FO20,430^GB476,1,1^FS
+
+^FX Rodape nutricional
+^FO20,437^A0N,13,16^FB480,2,0,L^FD*Percentual de valores diarios fornecidos pela porcao.^FS
+
+^FO26,460^A0N,13,16^FB480,2,0,L^FDAntes do consumo, higienize adequadamente o produto.^FS
+
+^FX ==========================================================
+^FX CODIGO DE BARRAS
+
+^FO80,478
+^BY2,2,30
+^BCN,30,Y,N,N
+^FD7898257741714^FS
+
+^XZ
